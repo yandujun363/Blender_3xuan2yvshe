@@ -10,7 +10,7 @@
 使用请标明作者```氧度菌```**
 ## 更新日志
 ### V3.1
-[b站视频]()
+[b站视频](https://www.bilibili.com/video/BV1PkhheeEzu/)
 1. 从原来的```MMD_Blender渲染预设```改名为```Blender3渲2预设``` (继承版本号)
 2. 节点更新
 
