@@ -43,6 +43,6 @@
 4. ~~出现了更多bug~~
 5. 移除了HIM  
 ### V1.0
-[B站视频](https://www.bilibili.com/video/BV1Ne41127sj/)
+[B站视频](https://www.bilibili.com/video/BV1Ne41127sj/)  
 特点:阴影使用Shader->RGB+颜色渐变 不需要光照贴图 不过BUG也很多
 后面会加上ilm贴图的支持
